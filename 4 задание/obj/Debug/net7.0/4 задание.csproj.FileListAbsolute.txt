@@ -1,0 +1,15 @@
+D:\GeekBrains\3. Знакомство с ЯП\8 семинар\4 задание\obj\Debug\net7.0\4 задание.csproj.AssemblyReference.cache
+D:\GeekBrains\3. Знакомство с ЯП\8 семинар\4 задание\obj\Debug\net7.0\4 задание.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\3. Знакомство с ЯП\8 семинар\4 задание\obj\Debug\net7.0\4 задание.AssemblyInfoInputs.cache
+D:\GeekBrains\3. Знакомство с ЯП\8 семинар\4 задание\obj\Debug\net7.0\4 задание.AssemblyInfo.cs
+D:\GeekBrains\3. Знакомство с ЯП\8 семинар\4 задание\obj\Debug\net7.0\4 задание.csproj.CoreCompileInputs.cache
+D:\GeekBrains\3. Знакомство с ЯП\8 семинар\4 задание\bin\Debug\net7.0\4 задание.exe
+D:\GeekBrains\3. Знакомство с ЯП\8 семинар\4 задание\bin\Debug\net7.0\4 задание.deps.json
+D:\GeekBrains\3. Знакомство с ЯП\8 семинар\4 задание\bin\Debug\net7.0\4 задание.runtimeconfig.json
+D:\GeekBrains\3. Знакомство с ЯП\8 семинар\4 задание\bin\Debug\net7.0\4 задание.dll
+D:\GeekBrains\3. Знакомство с ЯП\8 семинар\4 задание\bin\Debug\net7.0\4 задание.pdb
+D:\GeekBrains\3. Знакомство с ЯП\8 семинар\4 задание\obj\Debug\net7.0\4 задание.dll
+D:\GeekBrains\3. Знакомство с ЯП\8 семинар\4 задание\obj\Debug\net7.0\refint\4 задание.dll
+D:\GeekBrains\3. Знакомство с ЯП\8 семинар\4 задание\obj\Debug\net7.0\4 задание.pdb
+D:\GeekBrains\3. Знакомство с ЯП\8 семинар\4 задание\obj\Debug\net7.0\4 задание.genruntimeconfig.cache
+D:\GeekBrains\3. Знакомство с ЯП\8 семинар\4 задание\obj\Debug\net7.0\ref\4 задание.dll
